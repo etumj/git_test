@@ -1,0 +1,1 @@
+This is Ejay's first git project
